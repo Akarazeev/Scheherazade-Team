@@ -1,2 +1,13 @@
-# Scheherazade-Team
-Alexa Prize
+# Scheherazade-Team at Alexa Prize
+
+Team Members | Bio
+---|---
+![photo]() Yury Kuratov | I'm Ph.D. student at MIPT, C/C++, Python developer. My areas of interest are corpus linguistics, machine learning, deep learning and NLP.
+![photo]() Idris Yusupov (Team Lead) | I'm experienced software developer with expertise in web development, devops, machine learning, natural language processing and deep learning.
+![photo](https://cloud.githubusercontent.com/assets/11920213/19814332/78ec7d92-9d46-11e6-9dcb-9487891d3a25.jpg) Anton Karazeev | I am third year student at MIPT (DIHT). The subjects of my interests: mathematical logic, probability theory, mathematical statistics, linear algebra, computer science (machine learning, NLP), bioinformatics and physics (molecular dynamics). I use in my projects programming languages such as C/C++(multithreading and concurrency) and Python(including numpy, pandas, sklearn; experienced with TensorFlow). Alexa Prize is a great opportunity to use and improve my NLP-skills. Also I'm trainee in the lab for "Functional Analysis of Genes". I use here my Python-skills and knowledge of NLP. Most of my projects are located in GitHub: github.com/Akarazeev.
+![photo](https://cloud.githubusercontent.com/assets/11920213/19814259/265fb0ee-9d46-11e6-81b3-0c8d8b236978.jpg) Alexey Kulikov | I am a 4th year student of DIHT MIPT. Interested in NLP, machine learning and computer science overall. Participated in several projects involving ABBYY Compreno technology. After obtaining my BSc, I plan to pursue a MSc degree at MIPT. LinkedIn: linkedin.com/in/alexeyqu Github: github.com/alexeyqu
+![photo](https://cloud.githubusercontent.com/assets/11920213/19814394/b1303586-9d46-11e6-82ab-1773378af212.jpg) Eugeniya Cheskidova | I’m a 3rd year student of MIPT (out of 4 years of Bachelor). I'm interested in cutting-edge machine learning technologies and its applications in biology.
+![photo]() Sergey Kolesnikov | 5th year student of DIHT MIPT. Interested in Artificial Intelligence, Reinforcement Learning and Deep Learning overall. Already have several project in NLP, RL domains and Alexa Prize is great opportunity to combine these areas: new experiments, new experience. For current projects use Python and C++ languages for programming tasks and Tensorflow, Keras for neural network architectures. Linux and vim fan. LinkedIn: linkedin.com/in/scitator Github: github.com/scitator
+![photo]() Val Malykh | 
+![photo]() Denis Antyukhov | I am a graduate student working on my second MSc on NLP. I received education from Moscow Institute of Physics and Technology and Skolkovo Institute of Science and Technology. I also spent a semester at MIT as a visiting student, where I studied Machine Learning and NLP. My current focus is applying Deep Learning methods to NLP, particularly Convolutional Networks, Memory Networks and Recurrent Networks. After obtaining my second MSc, I plan to pursue a PhD degree.
+![photo](https://cloud.githubusercontent.com/assets/11920213/19814184/d104898a-9d45-11e6-81b9-70b8a0f44621.jpeg) Mikhail Burtsev |
